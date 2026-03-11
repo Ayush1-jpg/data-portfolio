@@ -19,6 +19,6 @@ This dashboard provides insights into:
 - Payment mode analysis
 - Top performing products
 
-- ## Dashboard Preview
+-## Dashboard Preview
 
-![Dashboard](madhav-ecommerce-sales-dashboard.png)
+![Madhav Ecommerce Dashboard](madhav-ecommerce-sales-dashboard.png)
