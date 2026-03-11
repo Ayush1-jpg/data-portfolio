@@ -1,13 +1,7 @@
-# Credit Card Analytics Dashboard
+## Dashboard Preview
 
-This project analyzes credit card transactions and customer spending behavior using Power BI.
+### Transaction Dashboard
+![Transaction Dashboard](credit_card_transaction-dashboard.png)
 
-## Tools Used
-- Power BI
-- Data Visualization
-
-## Dashboard Overview
-This dashboard provides insights into:
-- Revenue trends
-- Customer spending patterns
-- Transaction analysis
+### Customer Dashboard
+![Customer Dashboard](credit_card_customer_dashboard.png)
