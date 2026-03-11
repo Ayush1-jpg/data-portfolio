@@ -18,3 +18,7 @@ This dashboard provides insights into:
 - Monthly profit trends
 - Payment mode analysis
 - Top performing products
+
+- ## Dashboard Preview
+
+![Dashboard](madhav-ecommerce-sales-dashboard.png)
