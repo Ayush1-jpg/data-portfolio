@@ -1,0 +1,24 @@
+# Madhav Ecommerce Sales Dashboard
+
+This Power BI dashboard analyzes ecommerce sales performance, profit trends, and customer purchasing behavior.
+
+## Tools Used
+
+- Power BI
+- Data Visualization
+- Data Analysis
+
+## Dashboard Overview
+
+This dashboard provides insights into:
+
+- Total sales and profit
+- Sales by state
+- Sales by category and sub-category
+- Monthly profit trends
+- Payment mode analysis
+- Top performing products
+
+## Dashboard Preview
+
+![Dashboard](madhav-ecommerce-sales-dashboard.png)
