@@ -15,3 +15,7 @@ This dashboard provides insights into:
 - Attrition by age group
 - Attrition by job role
 - Attrition by years at company
+
+- ## Dashboard Preview
+
+![HR Dashboard](hr_analytics_dashboard.png)
