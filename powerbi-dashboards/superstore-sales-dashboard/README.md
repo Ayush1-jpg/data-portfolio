@@ -13,3 +13,7 @@ This dashboard provides insights into:
 - Profit trends
 - Order distribution
 - Regional sales analysis
+
+- ## Dashboard Preview
+
+![Superstore Sales Dashboard](superstore-sales_dashboard.png)
