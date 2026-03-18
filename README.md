@@ -1,52 +1,44 @@
-# Data Analyst Portfolio
+# 📊 Data Portfolio – Power BI Dashboards
 
-Welcome to my Data Analytics project portfolio.  
-This repository contains Power BI dashboards and data analysis projects demonstrating my skills in data visualization, business intelligence, and analytical thinking.
-
----
-
-## Skills
-
-- Data Analysis
-- Data Visualization
-- Dashboard Development
-- Business Intelligence
-- Data Storytelling
+## 📌 Overview
+This repository contains multiple Power BI dashboards created to analyze business data and generate actionable insights.
 
 ---
 
-## Tools & Technologies
-
-- Power BI
-- SQL
-- Microsoft Excel
-- Data Visualization
+## 🛠 Tools Used
+- Power BI  
+- Excel  
+- Data Cleaning & Transformation  
 
 ---
 
-## Projects
+## 📈 Dashboards Included
 
-### Credit Card Analytics Dashboard
-Power BI dashboard analyzing credit card transactions and customer spending behavior.
+### 1. Sales Dashboard
+- Analyzed sales performance across regions and categories  
+- Identified top-performing products and revenue trends  
 
-### Superstore Sales Dashboard
-Power BI dashboard analyzing retail sales performance, profit trends, and product category insights.
+### 2. Profit Analysis Dashboard
+- Evaluated profit margins across different segments  
+- Highlighted areas with low profitability  
 
-### HR Analytics Dashboard
-Power BI dashboard analyzing employee attrition, workforce demographics, and HR metrics.
+### 3. Customer Insights Dashboard
+- Analyzed customer purchasing behavior  
+- Identified key customer segments  
 
-### Madhav Ecommerce Sales Dashboard
-Power BI dashboard analyzing ecommerce sales performance, profit trends, and customer purchasing behavior.
+### 4. Regional Performance Dashboard
+- Compared sales across different regions  
+- Highlighted high and low performing areas  
 
 ---
 
-## Project Folder
+## 🔍 Key Insights
+- Top 20% products contribute majority of revenue  
+- Certain regions consistently outperform others  
+- Some categories show low profitability and need attention  
 
-All dashboards are located inside:
+---
 
-powerbi-dashboards/
+## 📷 Dashboard Screenshots
 
-Each project folder contains:
-- Power BI dashboard (.pbix)
-- Dashboard screenshot
-- Project description
+(Add your screenshots below 👇
