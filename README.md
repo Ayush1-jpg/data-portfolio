@@ -1,3 +1,8 @@
+
+https://github.com/Ayush1-jp
+ 
+Aspiring Data Analyst passionate about turning data into actionable insights.
+
 # 📊 Data Portfolio – Power BI, SQL & Excel Projects
 
 ## 📌 Overview
