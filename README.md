@@ -1,7 +1,6 @@
 
 🔗 GitHub Profile:
-[Ayush1-jpg](https://github.com
-/Ayush1-jpg
+ https://github.com/Ayush1-jpg
  
 Aspiring Data Analyst passionate about turning data into actionable insights.
 
